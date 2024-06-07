@@ -1,6 +1,6 @@
 spring:
   datasource:
-    password: MMKK123@
+    password: ########
     url: jdbc:mysql://localhost:3306/work_anniversary_mail
     username: root
   jpa:
